@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Full Stack Projects (Spring Boot + React)**
+- 🔭 I’m currently working on **Backend Projects (Spring Boot)**
 - 🌱 Learning **System Design & Cloud (AWS)**
 - 💡 Interested in Backend Development & Scalable Systems
 - 🎯 Goal: Crack a Product-Based Company as SDE
