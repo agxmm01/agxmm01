@@ -57,7 +57,6 @@ Secure authentication and authorization system.
 #### 🍽 Dish-Dash
 Multi-restaurant food delivery platform.
 - Backend developed using Spring Boot
-- Frontend built with React
 - MongoDB for scalable data storage
 - Restaurant login, order management & user dashboard
 
