@@ -15,18 +15,14 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 #### 🚀 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-#### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
 
 #### 🗄️ Database
 <p>
