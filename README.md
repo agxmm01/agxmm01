@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agampal Singh</h1>
+<h1 align="center">Hi, I'm Agampal Singh</h1>
 <h3 align="center">Backend Developer | Java Enthusiast | Aspiring SDE</h3>
 
 ---
