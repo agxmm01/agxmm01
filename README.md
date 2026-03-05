@@ -15,7 +15,7 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c" />
 </p>
 
 #### 🚀 Backend
