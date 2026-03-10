@@ -50,7 +50,7 @@ A full-stack application to manage and track daily expenses.
 #### 🔐 Authify
 Secure authentication and authorization system.
 - Implements JWT-based login & signup
-- Role-based access control (RBAC)
+- Use of Cookies to store sessions
 - Password encryption using BCrypt
 - Designed with Spring Security best practices
 
