@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Backend Projects (Spring Boot)**
 - 🌱 Learning **System Design & Cloud (AWS)**
 - 💡 Interested in Backend Development & Scalable Systems
-- 🎯 Goal: Crack a Product-Based Company as SDE
+- 🎯 Goal: To work on an interesting Product
 
 ---
 
